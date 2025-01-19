@@ -1,51 +1,59 @@
-/* Estilos gerais */
+
 body {
-    background-color: #f0f4f8; /* Cor de fundo pastel */
-    font-family: Arial, sans-serif; /* Fonte padrão */
+    background-color: #f0f4f8;
+    font-family: "Libre Franklin", Arial, sans-serif;
     display: flex;
     flex-direction: column;
-    align-items: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center;
     padding: 20px;
 }
 
 h1 {
-    color: #333; /* Cor do título */
+    color: #333;
 }
 
-/* Estilo do card */
+
 .card {
-    background-color: #ffffff; /* Fundo branco para o card */
-    border-radius: 15px; /* Cantos arredondados */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    margin-top: 20px; /* Espaço acima do card */
-    width: 300px; /* Largura do card */
-    text-align: center; /* Centraliza o texto dentro do card */
+    margin-top: 20px;
+    width: 300px;
+    text-align: center;
 }
 
-/* Estilo dos inputs e botão */
+
 input[type="text"] {
     padding: 10px;
     border-radius: 5px;
-    border: 1px solid #ccc; /* Borda suave */
-    margin-right: 10px; /* Espaço entre o input e o botão */
+    border: 1px solid #ccc;
+    margin-right: 10px;
 }
 
 button {
-    background-color: #007BFF; /* Cor de fundo do botão */
-    color: white; /* Cor do texto do botão */
+    background-color: #007BFF;
+    color: white;
     border: none;
     border-radius: 5px;
     padding: 10px 15px;
-    cursor: pointer; /* Cursor em forma de mão ao passar o mouse */
+    cursor: pointer;
+}
+
+#t-icon{
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 23px;
 }
 
 button:hover {
-    background-color: #0056b3; /* Efeito hover no botão */
+    background-color: #0056b3;
 }
 
-/* Estilo para resultados vazios ou carregando */
+
 #weatherResult {
     font-size: 16px;
-    color: #666; /* Cor do texto padrão no card */
+    color: #666;
 }
