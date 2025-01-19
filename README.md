@@ -1,4 +1,4 @@
-#Previsão do Tempo
+##Previsão do Tempo
 Este é um aplicativo web simples que exibe a previsão do tempo para uma cidade específica. Ele utiliza a API da OpenWeather para obter as informações climáticas e apresenta dados como temperatura, umidade e descrição do clima.
 
 #Funcionalidades
