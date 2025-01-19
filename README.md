@@ -16,6 +16,6 @@ API OpenWeather: Fonte das informações climáticas.
 Clone ou baixe este repositório:
 
 Copiar código
-git clone https://github.com/seu-usuario/previsao-do-tempo.git
+git clone https://github.com/joiceoliveiras/ClimaApp.git
 Abra o arquivo index.html no navegador.
 Digite o nome de uma cidade no campo de busca e clique em "Buscar Clima".
