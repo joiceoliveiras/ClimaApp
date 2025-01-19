@@ -14,7 +14,7 @@ API OpenWeather: Fonte das informações climáticas.
 
 # Como Usar
 Clone ou baixe este repositório:
-bash
+
 Copiar código
 git clone https://github.com/seu-usuario/previsao-do-tempo.git
 Abra o arquivo index.html no navegador.
