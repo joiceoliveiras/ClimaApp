@@ -12,7 +12,7 @@ CSS3: Estilização do layout.
 JavaScript: Lógica de busca e exibição dos dados.
 API OpenWeather: Fonte das informações climáticas.
 
- #Como Usar
+# Como Usar
 Clone ou baixe este repositório:
 bash
 Copiar código
