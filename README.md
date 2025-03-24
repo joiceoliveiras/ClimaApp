@@ -19,3 +19,8 @@ Copiar código
 git clone https://github.com/joiceoliveiras/ClimaApp.git
 Abra o arquivo index.html no navegador.
 Digite o nome de uma cidade no campo de busca e clique em "Buscar Clima".
+
+
+<p align="center" >
+     <img width="600" heigth="600" src="https://github.com/joiceoliveiras/ClimaApp/blob/main/previsao-ba.png">
+</p>
