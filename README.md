@@ -22,5 +22,5 @@ Digite o nome de uma cidade no campo de busca e clique em "Buscar Clima".
 
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://github.com/joiceoliveiras/ClimaApp/blob/main/previsao-ba.png">
+     <img width="600" heigth="600" src="https://github.com/joiceoliveiras/ClimaApp/blob/main/climaf.png">
 </p>
