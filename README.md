@@ -12,13 +12,8 @@ CSS3: Estilização do layout.
 JavaScript: Lógica de busca e exibição dos dados.
 API OpenWeather: Fonte das informações climáticas.
 
-# Como Usar
-Clone ou baixe este repositório:
-
-Copiar código
-git clone https://github.com/joiceoliveiras/ClimaApp.git
-Abra o arquivo index.html no navegador.
-Digite o nome de uma cidade no campo de busca e clique em "Buscar Clima".
+# Confira o site
+https://climatetrackbr.netlify.app/
 
 
 <p align="center" >
